@@ -38,4 +38,5 @@ This project uses latest version of React, As this project is very small, using 
 ## Limitations 
 This project is a pure front end project, there is pretty much no I/O operations as the app computes the graph in the UI code itself. I wanted to create a graphql/rest based service to uplift the result calculation to it, however it would make things difficult to host. It would be an improvement for larger calculations in the future 
 
+The Lottie animation is hidden for the mobile viewport as there is a min-width associated with it to render correctly. 
 
